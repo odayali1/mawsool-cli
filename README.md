@@ -2,6 +2,9 @@
 
 **Find verified LinkedIn profiles from emails or name + company. Clean, enrich, and update your HubSpot / Salesforce / Pipedrive contact lists in one command.**
 
+Built by **[Mawsool](https://mawsool.tech)** — B2B lead intelligence with 1B+ verified contacts.  
+Website: **[mawsool.tech](https://mawsool.tech)** · Support: **[support@mawsool.tech](mailto:support@mawsool.tech)**
+
 > ### ⚡ Don't want to manage API keys or write code?
 > **Run the cloud-hosted version on Apify instantly** — free account, pay per result, CSV in / CSV out:
 >
@@ -171,4 +174,9 @@ Cloud mode: from **$2 / 1,000 emails** and **$1 / 1,000 people lookups** on Apif
 
 [Mawsool](https://mawsool.tech) is a B2B lead-intelligence platform with 1B+ verified global contacts, built for sales, recruiting, and RevOps teams.
 
-**Support:** [support@mawsool.tech](mailto:support@mawsool.tech) · **License:** MIT
+- **Website:** [https://mawsool.tech](https://mawsool.tech)
+- **Support:** [support@mawsool.tech](mailto:support@mawsool.tech)
+- **Apify Email → LinkedIn:** [apify.com/oday/mawsool-email-linkedin-lookup](https://apify.com/oday/mawsool-email-linkedin-lookup)
+- **Apify Name + Company → LinkedIn:** [apify.com/oday/mawsool-linkedin-profile-finder](https://apify.com/oday/mawsool-linkedin-profile-finder)
+
+**License:** MIT
