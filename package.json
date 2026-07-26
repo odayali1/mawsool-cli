@@ -1,0 +1,45 @@
+{
+    "name": "mawsool-cli",
+    "version": "1.0.0",
+    "description": "CRM enrichment CLI - find verified LinkedIn profiles from emails or name + company. Clean, enrich, and update HubSpot/Salesforce contact lists from your terminal.",
+    "keywords": [
+        "crm-enrichment",
+        "lead-enrichment",
+        "reverse-email-lookup",
+        "linkedin",
+        "email-to-linkedin",
+        "linkedin-profile-finder",
+        "b2b-data",
+        "sales",
+        "recruiting",
+        "hubspot",
+        "salesforce",
+        "data-enrichment",
+        "cli",
+        "apify"
+    ],
+    "license": "MIT",
+    "author": "Mawsool <support@mawsool.tech> (https://mawsool.tech)",
+    "homepage": "https://github.com/odayali1/mawsool-cli#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/odayali1/mawsool-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/odayali1/mawsool-cli/issues"
+    },
+    "type": "module",
+    "bin": {
+        "mawsool": "bin/mawsool.js"
+    },
+    "files": [
+        "bin",
+        "src"
+    ],
+    "engines": {
+        "node": ">=18"
+    },
+    "scripts": {
+        "start": "node bin/mawsool.js"
+    }
+}
