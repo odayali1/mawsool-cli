@@ -10,8 +10,10 @@ Website: **[mawsool.tech](https://mawsool.tech)** · osama: **[osama@mawsool.tec
 >
 > | I have... | Run this |
 > |-----------|----------|
-> | **Emails** → want LinkedIn profiles | [**Email to LinkedIn Finder →**](https://apify.com/oday/mawsool-email-linkedin-lookup) |
+> | **Emails** → want LinkedIn profiles | [**Reverse Email Lookup →**](https://apify.com/oday/mawsool-email-linkedin-lookup) |
 > | **Names + companies** → want LinkedIn profiles | [**LinkedIn Profile Finder →**](https://apify.com/oday/mawsool-linkedin-profile-finder) |
+> | **Profile URL** → want a personal email | [**LinkedIn Email Finder →**](https://apify.com/oday/mawsool-linkedin-personal-email-finder) |
+> | **Profile URLs** → current company and headline, you compare | [**Profile Freshness Check →**](https://apify.com/oday/mawsool-linkedin-profile-freshness) |
 
 ---
 
