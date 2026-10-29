@@ -1,0 +1,9 @@
+# Mawsool CLI
+
+> Find a verified LinkedIn profile from an email, or from a name and company, and enrich a CRM list from the terminal. Exact matches only.
+
+The same lookup runs on Apify at https://apify.com/oday/mawsool-email-linkedin-lookup without installing anything.
+
+An API key for your own integration is at https://mawsool.tech/ and https://docs.mawsool.tech/. Contact osama@mawsool.tech or info@mawsool.tech.
+
+Mawsool is not affiliated with LinkedIn.
